@@ -1,10 +1,16 @@
+
+<div align = center>
+  
 ##
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=⚪️ChmhGitHub⚫️&fontAlign=50&fontColor=#ff0000)
 
-<div align = center>
 
-<br><br>
+
+### Welcome to ChMH github Profile 👊💥 
+
+<br>
+
 # :pencil2: :books: 
 ### :fire: 주력 스킬 & 공부 중 :fire:
 <br>
