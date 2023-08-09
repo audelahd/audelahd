@@ -5,7 +5,8 @@
 <div align = center>
 
 <br><br>
-# :pencil2: :black_nib: :books: :notebook_with_decorative_cover:
+# :pencil2: :books: 
+### :fire: 주력 스킬 & 공부 중 :fire:
 <br>
 
 
@@ -16,7 +17,8 @@
 
 <br>
 
-# :computer: :iphone: :hourglass: :camera:
+# :computer: :question:
+### :star2: 주로 사용하는 언어 & 깃허브 기록 :star2:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audelahd&layout=compact&theme=dark)
